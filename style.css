@@ -1,0 +1,9 @@
+body{
+	font-family: sans-serif;
+}
+
+.commentList{
+	background-color: #9b59b6;
+	padding: 10px;
+	color: #fff;
+}
